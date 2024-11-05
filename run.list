@@ -1,9 +1,8 @@
-compute_iou
+compute_area_ratio
 
 stop
 
 resize
-compute_area_ratio
 roi_color
 
 
@@ -12,3 +11,4 @@ threshold
 erode
 find_contours
 rect
+compute_iou

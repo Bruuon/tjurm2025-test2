@@ -1,9 +1,6 @@
-resize
-
-stop
-
 roi_color
 
+stop
 
 split
 threshold
@@ -12,3 +9,4 @@ find_contours
 rect
 compute_iou
 compute_area_ratio
+resize
